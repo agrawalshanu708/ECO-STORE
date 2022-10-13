@@ -5,18 +5,28 @@
 }
 
 .brand{
-margin-top: 1px;
+margin-top: 3px;
+font-size: 12px;
 }
 
 .input{
  text-align: center;
+margin-left: 7rem;
+
+
 }
 
-
+.btn{
+    height: 5vh;
+    font-size: 5px;
+    margin-left: 1px;
+    margin-top: 4px;
+}
 
 .icons {
     display: flex;
-    margin-left: 5rem;
+    margin-left: 2rem;
+
 }
 
 .icons1{

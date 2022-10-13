@@ -11,10 +11,10 @@ const Navbar = () => {
 <div>
 <div className='navigation'>
 <h6 className="brand">Eco-Store <MdStoreMallDirectory/> </h6>
-<div className='input'>
-<input placeholder='search on Eco-Store'/>🔍
+<div>
+<input  className='input'
+placeholder='search on Eco-Store'/>🔍
 </div>
-<button className='btn'>log out</button>
 
 <div className='icons'>
 <div className='icons1'><BsPersonFill/></div>
@@ -22,6 +22,7 @@ const Navbar = () => {
 <div className='icons1'><IoMdHeart/></div>
 </div>
 
+<button className='btn'>log out</button>
 </div>
 </div>
   )
