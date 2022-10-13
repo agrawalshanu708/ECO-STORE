@@ -1,0 +1,24 @@
+.navigation{
+    font-family: sans-serif;
+    display: flex;
+    width: 5000px;
+}
+
+.brand{
+margin-top: 1px;
+}
+
+.input{
+ text-align: center;
+}
+
+
+
+.icons {
+    display: flex;
+    margin-left: 5rem;
+}
+
+.icons1{
+    padding: 4px;
+}
