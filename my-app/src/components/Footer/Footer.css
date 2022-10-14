@@ -5,8 +5,8 @@
     font-size:xx-small;
     color: var(--secondary-color);
     display: flex;
-    background-color: var(--footer1-color)
-      
+    background-color: var(--footer1-color);
+    font-family:'Times New Roman', Times, serif;    
 }
 
 .A{
