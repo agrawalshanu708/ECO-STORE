@@ -10,6 +10,7 @@ const Navbar = () => {
   return (
 <div>
 <div className='navigation'>
+<div></div>
 <h6 className="brand">Eco-Store <MdStoreMallDirectory/> </h6>
 <div>
 <input  className='input'
