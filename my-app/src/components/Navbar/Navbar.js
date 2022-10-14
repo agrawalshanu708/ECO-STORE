@@ -1,23 +1,24 @@
+
 import React from 'react'
 import { BsPersonFill } from 'react-icons/bs';
 import { ImCart } from "react-icons/im";
 import { IoMdHeart } from "react-icons/io";
-import { MdStoreMallDirectory } from "react-icons/md";
-import { laptop } from "../../Assets/images/laptop"
-import "../Home/Home.css"
+import  laptop  from "../../Assets/images/laptop.jpg"
+import "./Navbar.css"
 
 
 const Navbar = () => {
   return (
-<div>
+    
+<div className='background'>
+<div className='back'>
 <div className='navigation'>
-
-<h6 className="brand">Eco-Store <MdStoreMallDirectory/> </h6>
+<img className='laptop' src={laptop} alt=""/>
+<h6 className="brand">Eco- <samp className='brand1'>Store</samp> </h6>
 <div>
-<img src={laptop} alt=""/>
 
 <input  className='input'
-placeholder='search on Eco-Store'/>🔍
+placeholder='search on Eco-Store       💻'/>
 </div>
 
 <div className='icons'>
@@ -29,7 +30,8 @@ placeholder='search on Eco-Store'/>🔍
 <button className='btn'>log out</button>
 </div>
 </div>
+</div>
   )
 }
 
-export {Navbar, laptop}
+export { Navbar }
