@@ -3,6 +3,7 @@ import { BsPersonFill } from 'react-icons/bs';
 import { ImCart } from "react-icons/im";
 import { IoMdHeart } from "react-icons/io";
 import { MdStoreMallDirectory } from "react-icons/md";
+import { laptop } from "../../Assets/images/laptop"
 import "../Home/Home.css"
 
 
@@ -10,9 +11,11 @@ const Navbar = () => {
   return (
 <div>
 <div className='navigation'>
-<div></div>
+
 <h6 className="brand">Eco-Store <MdStoreMallDirectory/> </h6>
 <div>
+<img src={laptop} alt=""/>
+
 <input  className='input'
 placeholder='search on Eco-Store'/>🔍
 </div>
@@ -29,4 +32,4 @@ placeholder='search on Eco-Store'/>🔍
   )
 }
 
-export default Navbar
+export {Navbar, laptop}
