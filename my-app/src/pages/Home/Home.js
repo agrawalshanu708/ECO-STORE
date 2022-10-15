@@ -42,6 +42,8 @@ India's Largest Laptop Store 💻 Friday Sale is on!!!
   <div> <img className="laptop1" src={laptop5} alt="" /></div>
 </div>
 
+<div> </div>
+
 
     </div>
   )
