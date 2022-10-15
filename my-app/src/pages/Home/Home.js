@@ -4,6 +4,7 @@ import laptop2 from "../../Assets/images/laptop2.jpg"
 import laptop3 from "../../Assets/images/laptop3.jpg"
 import laptop4 from "../../Assets/images/laptop4.jpg"
 import laptop5 from "../../Assets/images/laptop5.jpg"
+import laptop6 from "../../Assets/images/laptop6.jpg"
 
 import "./Home.css"
 
@@ -40,6 +41,11 @@ India's Largest Laptop Store 💻 Friday Sale is on!!!
   <div> <img className="laptop1" src={laptop3} alt="" /></div>
   <div> <img className="laptop1" src={laptop4} alt="" /></div>
   <div> <img className="laptop1" src={laptop5} alt="" /></div>
+</div>
+
+<div>
+  <div> <img src="{laptop6}" alt=""/></div>
+  <div> <img src="{laptop7}" alt=""/></div>
 </div>
 
 <div> </div>
