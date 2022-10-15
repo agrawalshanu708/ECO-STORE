@@ -1,0 +1,22 @@
+
+
+.sale{
+    padding-left: 2rem;
+    font-size:xx-small;
+    color: var(--secondary-color);
+    display: flex;
+    background-color: var(--header1-color);
+    font-family:'Times New Roman', Times, serif;    
+}
+
+.A{
+    padding-left: 12rem;
+    color: var(--header-color)
+}
+
+.B{
+    color: var(--header-color) 
+}
+.C{
+    color: var(--header-color)
+}

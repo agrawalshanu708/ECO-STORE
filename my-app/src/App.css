@@ -25,9 +25,9 @@
 
 
 :root {
-  --primary-color: rgb(116, 113, 113);
+  --primary-color: rgb(44, 43, 43);
   --secondary-color: rgb(182, 141, 141);
-  --footer-color: rgb(192, 185, 185);
-  --footer1-color: rgb(51, 35, 35);
+  --header-color: rgb(255, 253, 253);
+  --header1-color: rgb(0, 0, 0);
 }
 
