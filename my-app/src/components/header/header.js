@@ -11,9 +11,9 @@ const header = () => {
     <div className='sale'>
         Eco-Store's Pink Friday Sale is on!!!
 
-        <div className='A'><AiFillGift/>Store & Events |</div>
-        <div className='B'><FaMapMarkerAlt/>Gift Card |</div>
-        <div className='C'><IoIosHelpCircle/>Help </div></div>
+        <div className='Events'><AiFillGift/>Store & Events |</div>
+        <div className='Card'><FaMapMarkerAlt/>Gift Card |</div>
+        <div className='Help'><IoIosHelpCircle/>Help </div></div>
   )
 }
 

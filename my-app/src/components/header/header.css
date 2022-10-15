@@ -1,22 +1,23 @@
 
 
 .sale{
-    padding-left: 2rem;
+    padding-left: 1rem;
     font-size:xx-small;
     color: var(--secondary-color);
     display: flex;
     background-color: var(--header1-color);
-    font-family:'Times New Roman', Times, serif;    
+    font-family:'Times New Roman', Times, serif;
+    height: 5vh;    
 }
 
-.A{
+.Events{
     padding-left: 12rem;
     color: var(--header-color)
 }
 
-.B{
+.Card{
     color: var(--header-color) 
 }
-.C{
+.Help{
     color: var(--header-color)
 }

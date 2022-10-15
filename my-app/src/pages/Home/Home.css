@@ -1,12 +1,44 @@
 .Banner1 { height: 60vh;
           width: 100%;
-          /* padding-top:14px; */
-          /* box-shadow: 0px 3px 5px 7px ; */
-    
-
 }
+
+.image-div{
+    margin-top: 2rem;
+}
+
 .blank-div{
     margin-top: 19px;
     background-color: rgb(228, 213, 224);
-    height: 5vh;
+    height: 3vh;
+}
+
+.brands3{
+    display: flex;
+    height: 0.5vh;
+    background-color: aliceblue;
+}
+.Lapbrand{
+    margin-left: 4rem;
+    text-align: center;
+    margin-top: 0.7rem;
+    color: rgb(81, 96, 109);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.Categories{
+    margin-top: 1vh;
+    text-align: center;
+    font-size: x-small;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.laptopimages{
+    display: flex;
+}
+.laptop1{
+    height: 38vh;
+    width: 100%;
+}
+
+.marquee{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

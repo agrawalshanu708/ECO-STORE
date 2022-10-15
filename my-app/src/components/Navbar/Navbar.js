@@ -14,7 +14,7 @@ const Navbar = () => {
 <div className='background'>
 <div className='back'>
 <div className='navigation'>
-<img className='laptop' src={laptop} alt=""/>
+<img className='laptoplogo' src={laptop} alt=""/>
 <h6 className="brand">Eco- <span className='brand1'>Store</span> </h6>
 <div>
 
