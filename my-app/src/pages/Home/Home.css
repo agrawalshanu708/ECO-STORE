@@ -1,9 +1,10 @@
 .Banner1 { height: 70vh;
           width: 100%;
+          
 }
 
 .image-div{
-    margin-top: 2rem;
+    margin-top: 1.5rem;
 }
 
 .blank-div{
@@ -20,7 +21,7 @@
 .Lapbrand{
     margin-left: 4rem;
     text-align: center;
-    margin-top: 0.7rem;
+    margin-top: 0.4rem;
     color: rgb(81, 96, 109);
     font-family:Georgia, 'Times New Roman', Times, serif
 }
@@ -35,9 +36,10 @@
     display: flex;
 }
 .laptop1{
-    height: 38vh;
+    height: 40vh;
     width: 100%;
 }
+
 
 .marquee{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
