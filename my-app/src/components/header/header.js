@@ -13,7 +13,8 @@ const header = () => {
 
         <div className='Events'><AiFillGift/>Store & Events |</div>
         <div className='Card'><FaMapMarkerAlt/>Gift Card |</div>
-        <div className='Help'><IoIosHelpCircle/>Help </div></div>
+        <div className='Help'><IoIosHelpCircle/>Help </div>
+    </div>
   )
 }
 

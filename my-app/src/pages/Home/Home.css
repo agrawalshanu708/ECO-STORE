@@ -25,12 +25,14 @@
     color: rgb(81, 96, 109);
     font-family:Georgia, 'Times New Roman', Times, serif
 }
-.Categories{
-    margin-top: 1vh;
+.categories{
+    margin-top: -10px;
     text-align: center;
     font-size: x-small;
-    font-family:Arial, Helvetica, sans-serif
+    font-family:serif
 }
+
+ /* uper case  */
 
 .laptopimages{
     display: flex;
@@ -41,6 +43,23 @@
 }
 
 
+/* lower case */
+ 
+.laptopimages1{
+    display: flex;
+}
+.laptop2{
+    height: 40vh;
+    width: 100%;
+}
+
+
+
+
 .marquee{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(207, 32, 32);
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: small;
+    padding-bottom: 3px;
 }
