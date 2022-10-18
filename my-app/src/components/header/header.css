@@ -7,17 +7,23 @@
     display: flex;
     background-color: var(--header1-color);
     font-family:'Times New Roman', Times, serif;
-    height: 5vh;    
+    height: 6vh;    
 }
-
+.sale1 { 
+    margin-top: 5px;
+ }
 .Events{
+    margin-top: 4px;
     padding-left: 12rem;
     color: var(--header-color)
+    
 }
 
 .Card{
+    margin-top: 4px;
     color: var(--header-color) 
 }
 .Help{
+    margin-top: 4px;
     color: var(--header-color)
 }

@@ -9,7 +9,7 @@ import "./Header.css"
 const header = () => {
   return (
     <div className='sale'>
-        Eco-Store's Pink Friday Sale is on!!!
+       <p className='sale1'>Eco-Store's Pink Friday Sale is on!!!</p>
 
         <div className='Events'><AiFillGift/>Store & Events |</div>
         <div className='Card'><FaMapMarkerAlt/>Gift Card |</div>
