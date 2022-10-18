@@ -1,4 +1,4 @@
-import Banner1 from "../../Assets/images/Banner1.jpg"
+import Banner1 from "../../Assets/images/Banner1.png"
 import Banner2 from "../../Assets/images/Banner2.png"
 import Banner3 from "../../Assets/images/Banner3.png"
 import Banner4 from "../../Assets/images/Banner4.png"

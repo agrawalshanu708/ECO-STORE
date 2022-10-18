@@ -35,11 +35,12 @@ border-bottom: solid rgb(204, 195, 195) 1px;
 
 .btn{
 height: 6vh;
-font-size:  6px;
+font-size: 5px;
 margin-top: 4px;
 background-color: var(--secondary-color);
 border: 1px white;
 border-radius: 4px;
+font-weight: bold;
 }
 
 .icons {
