@@ -228,9 +228,21 @@ margin-left: auto;}
     height: 30rem;
     width: 100%;
 }
- 
+.footer-section {
+    margin: 3rem;
+  }
+  .footer-subheading {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: var(--primary-text-color);
+  }
 
-
+  .footer1 {
+    font-size: 1.5rem;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px;
+  }
 
 
 
