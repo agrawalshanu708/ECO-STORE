@@ -1,12 +1,14 @@
 
 
 .navigation{
+    position: fixed;
     font-family: sans-serif;
     display: flex;
-    background-color: whitesmoke;
+    background-color: white;
     border-radius: 2px;
     border-bottom: solid rgb(204, 195, 195) 1px;
-    margin-top: 1px;
+    margin-top: 1rem;
+    width: 100%;
 }
 
 
@@ -24,9 +26,8 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
 
 .input{
  text-align: center;
-margin-left: 5rem;
+margin-left: 6.5rem;
 border-radius: 5px;
-text-align: justify;
 font-size:x-small;
 border: 2px whitesmoke;
 padding: 1px;
@@ -60,5 +61,6 @@ font-weight: bold;
     width:  1rem;
     margin-top: 3px;
     margin-left: 2px;
-    
+
+
 }

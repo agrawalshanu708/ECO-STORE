@@ -1,13 +1,16 @@
 
 
 .sale{
+    position: fixed;
     padding-left: 1rem;
     font-size:xx-small;
     color: var(--secondary-color);
     display: flex;
-    background-color: var(--header1-color);
+    background-color: var(--primary-color);
     font-family:'Times New Roman', Times, serif;
-    height: 6vh;    
+    height: 6.6vh; 
+    width: 100%;
+       
 }
 .sale1 { 
     margin-top: 5px;
@@ -15,15 +18,15 @@
 .Events{
     margin-top: 4px;
     padding-left: 12rem;
-    color: var(--header-color)
+    color: var(--secondry-color)
     
 }
 
 .Card{
     margin-top: 4px;
-    color: var(--header-color) 
+    color: var(--secondry-color) 
 }
 .Help{
     margin-top: 4px;
-    color: var(--header-color)
+    color: var(--secondry-color)
 }
