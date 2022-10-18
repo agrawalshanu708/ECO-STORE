@@ -4,7 +4,7 @@ import { FaMapMarkerAlt} from 'react-icons/fa';
 
 
 import React from 'react'
-import "./header.css"
+import "./Header.css"
 
 const header = () => {
   return (
