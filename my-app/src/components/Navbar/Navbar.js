@@ -11,8 +11,6 @@ import "./Navbar.css"
 const Navbar = () => {
   return (
     
-<div className='background'>
-<div className='back'>
 <div className='navigation'>
 <img className='laptoplogo' src={laptop} alt=""/>
 <h6 className="brand">Eco- <span className='brand1'>Store</span> </h6>
@@ -29,8 +27,7 @@ placeholder='search on Eco-Store      💻'/>
 </div>
 
 <button className='btn'>log out</button>
-</div>
-</div>
+
 
 </div>
 
