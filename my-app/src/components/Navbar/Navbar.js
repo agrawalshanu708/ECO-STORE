@@ -13,7 +13,7 @@ const Navbar = () => {
     
 <div className='navigation'>
 <img className='laptoplogo' src={laptop} alt=""/>
-<h6 className="brand">Eco- <span className='brand1'>Store</span> </h6>
+<h6 className="brand">Eco-<span className='brand1'>Store</span> </h6>
 <div>
 
 <input  className='input'

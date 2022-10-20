@@ -2,6 +2,7 @@
 
 .sale{
     position: fixed;
+    top: 0%;
     padding-left: 1rem;
     font-size:xx-small;
     color: var(--secondary-color);
@@ -17,7 +18,7 @@
  }
 .Events{
     margin-top: 4px;
-    padding-left: 12rem;
+    padding-left: 14rem;
     color: var(--secondry-color)
     
 }

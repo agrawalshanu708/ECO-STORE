@@ -27,11 +27,8 @@ import React from 'react'
 
 export const Home = () => {
   return (
-    <div>
+    <div className="home">
 
-    
-    
- 
     <div className="brands3">
     <h6 className="Lapbrand">DELL</h6>
     <h6 className="Lapbrand">HP</h6>
