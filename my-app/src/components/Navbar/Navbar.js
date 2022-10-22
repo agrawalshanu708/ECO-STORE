@@ -3,7 +3,9 @@ import React from 'react'
 import { BsPersonFill } from 'react-icons/bs';
 import { ImCart } from "react-icons/im";
 import { IoMdHeart } from "react-icons/io";
+import { Link } from 'react-router-dom';
 import  laptop  from "../../Assets/images/laptop.jpg";
+
 
 import "./Navbar.css"
 
@@ -13,7 +15,7 @@ const Navbar = () => {
     
 <div className='navigation'>
 <img className='laptoplogo' src={laptop} alt=""/>
-<h6 className="brand">Eco-<span className='brand1'>Store</span> </h6>
+<Link className='link2' to="/"><h6 className="brand" >Eco-<span className='brand1'>Store</span></h6></Link>
 <div>
 
 <input  className='input'

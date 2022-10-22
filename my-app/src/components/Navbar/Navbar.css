@@ -24,6 +24,11 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
 }
 .brand1{
     color: var(--secondary-color)}
+    
+.link2{
+    text-decoration: none;
+    color: var(--secondary-color)
+}
 
 .input{
  text-align: center;

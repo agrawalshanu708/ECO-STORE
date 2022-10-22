@@ -24,6 +24,7 @@ import logo7 from "../../Assets/images/logo7.png"
 import "./Home.css"
 
 import React from 'react'
+import { Link } from "react-router-dom"
 
 export const Home = () => {
   return (
@@ -39,6 +40,7 @@ export const Home = () => {
     
     
      
+    <Link className="Link" to="/ProductStore"><span className="store1">St</span><span className="store">ore</span></Link>
 
 <div><img className="Banner1" src={Banner1} alt=""/></div>
 
