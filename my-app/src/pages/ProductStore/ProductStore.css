@@ -1,3 +1,33 @@
 .main-divs{
-    margin-top: 4rem;
+    margin-top: 5rem;
+}
+
+.img{
+    height: 30vh;
+   
+    
+ 
+}
+
+.list{
+    font-size: 6px ;
+    font-weight: bold;
+}
+
+/* =========xxxxx lis side=========== */
+
+.dis { 
+    display: grid;
+    grid-template-columns: 10fr 8fr 6fr 4fr;
+    margin-bottom: 1rem;
+ 
+}
+.r{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: flex-start;
+    margin-left:  0px;
+    height: 100%;
+    width: 100%;
 }
