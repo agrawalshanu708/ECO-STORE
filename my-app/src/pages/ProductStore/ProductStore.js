@@ -18,16 +18,19 @@ const ProductStore = () => {
 
   return (
     <div className="main-divs">
-    <div> {users.map((user) => 
+    <div className='s'> {users.map((user) => 
       <div className='r'><div> <img className='img' src={user.image}/></div>
     <div className='list'>  <li> {user.tittle} </li>
-            <li className='dis'> {user.description} </li> 
+            {/* <li className='dis'> {user.description} </li>  */}
             <li> {user.processor }</li>
             <li> {user.category}</li>
             <li> {user.price}</li>
             <li> {user.qty}</li>
             <li>{user.original_price}</li>
-            <li>{user.discount}</li> </div>
+            <li>{user.discount}</li> 
+            <li>{user.rating.rate}</li>
+            <li>{user.rating.count}</li>
+            </div>
       </div>
       )
     } </div>

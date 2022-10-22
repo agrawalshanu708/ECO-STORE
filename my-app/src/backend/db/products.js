@@ -20,22 +20,7 @@ import { v4 as uuid } from "uuid";
       "count":5
 }},
 
-{
-  _id: uuid(),
-  "tittle": "Dell",
-  "description": "DELL Ryzen 5 Hexa Core AMD R5-6600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) G15-5525 Gaming Laptop  (15.6 Inch, Phantom Grey With Speckles, 2.51 Kg, With MS  ice)",
-  "price":"₹86,890,",
-  "category":"Gaming Laptop",
-  "processor":"Ryzen 5 Hexa Core",
-   "qty" : 1,
-  "new_arrival":true,
-  "original_price":"₹1,12,802",
-  "discount":"22" ,
-  "image":"https://rukminim1.flixcart.com/image/416/416/l45xea80/computer/7/5/r/g15-5525-gaming-laptop-dell-original-imagf4haxvzux68z.jpeg?q=70",
-  "rating":{
-      "rate" : 2,
-      "count":5
-}},
+
   
 {
   _id: uuid(),
@@ -87,93 +72,7 @@ _id: uuid(),
     "count":5
 }},
 
-{
-_id: uuid(),
-"tittle": "HP",
-"description": "HP Envy Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 13-bd1003TU Thin and Light Laptop  (13.3 inch, Natural Silver, 1.30 Kg, With MS  ice",
-"price":"₹1,05,900,",
-"category":"Business Laptop",
-"processor":"Core i7 12th Gen",
- "qty" : 1,
-"new_arrival":true,
-"original_price":"₹1,24,533",
-"discount":"14" ,
-"image":"https://rukminim1.flixcart.com/image/416/416/l26hdow0/computer/p/6/b/13-bd1003tu-thin-and-light-laptop-hp-original-imagdkzmzxdjuc9h.jpeg?q=70",
-"rating":{
-    "rate" : 3,
-    "count":5
-}},
 
-{
- _id: uuid(),
-"tittle": "HP",
-"description": "HP Spectre Core i7 12th Gen - (16 GB/1 TB SSD/Windows 11 Home) ef0054TU Notebook  (13.5 inch, Nocturne Blue, 1.34 kg, With MS  ice)",
-"price":"₹1,49,890,",
-"category":"Business Laptop",
-"processor":"Core i7 12th Gen",
- "qty" : 1,
-"new_arrival":true,
-"original_price":"₹1,68,617",
-"discount":"11" ,
-"image":"https://rukminim1.flixcart.com/image/416/416/xif0q/computer/h/s/n/spectre-x360-13-notebook-hp-original-imagg4fa4ng9axqx.jpeg?q=70",
-"rating":{
-    "rate" : 1,
-  "count":5
-}},
-
-  
-{
-  "tittle": "HP",
-  _id: uuid(),
-  "description": "HP Core i7 12th Gen - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 3050 4GB Graphics) 16-B1350TX Gaming Laptop  (16.1 inch, Shadow Black, With MS  ice)",
-  "price":"₹1,21,900,",
-  "category":"Gaming Laptop",
-  "processor":"Core i7 12th Gen",
-   "qty" : 1,
-  "new_arrival":true,
-  "original_price":"₹1,48,990",
-  "discount":"18" ,
-  "image":"https://rukminim1.flixcart.com/image/416/416/xif0q/computer/h/h/m/16-b1350tx-gaming-laptop-hp-original-imagg7hutkwfyrwq.jpeg?q=70",
-  "rating":{
-      "rate" : 2,
-      "count":5
-  }},
-  
-
-{
-  _id: uuid(),
-  "tittle": "HP",
-  "description": "HP Victus Ryzen 7 Octa Core 5800H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) 15-fb0052AX Gaming Laptop  (15.6 Inch, Mica Silver, 2.37 Kg, With MS  ice))",
-  "price":"₹84,390",
-  "category":"Gaming Laptop",
-  "processor":"Core i7 12th Gen",
-   "qty" : 1,
-  "new_arrival":true,
-  "original_price":"₹93,197",
-  "discount":"9" ,
-  "image":"https://rukminim1.flixcart.com/image/416/416/l5bd5zk0/computer/l/e/k/15-fb0040ax-gaming-laptop-hp-original-imaggyuezf9qtypd.jpeg?q=70",
-  "rating":{
-      "rate" : 3,
-      "count":5
-  }},
-  
-{
-  _id: uuid(),
-  "tittle": "HP",
-  "description": "HP HP ZBook Firefly Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home) ZBook Firefly 15U G7 Notebook  (15.6 inch, Black)",
-  "price":"₹99,900",
-  "category":" Business Laptop",
-  "processor":"Core i7 12th Gen",
-   "qty" : 1,
-  "new_arrival":true,
-  "original_price":"₹1,59,251",
-  "discount":"37" ,
-  "image":"https://rukminim1.flixcart.com/image/416/416/l5bd5zk0/computer/l/e/k/15-fb0040ax-gaming-laptop-hp-original-imaggyuezf9qtypd.jpeg?q=70",
-  "rating":{
-      "rate" : 5,
-      "count":5
-  }},
-  
 {
   _id: uuid(),
   "tittle": "ASUS",
@@ -274,38 +173,7 @@ _id: uuid(),
       "rate" : 5,
       "count":5
   }},
-{
-  _id: uuid(),
-  "tittle": "MSI",
-  "description": "MSI Stealth GS66 Core i7 12th Gen - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 3070Ti/240 Hz) GS66 12UGS Gaming Laptop  (15.6 inch, Core Black, 2.1 kg)",
-  "price":"₹2,85,890",
-  "category":" Gameing Laptop",
-  "processor":"Core i7 12th Gen",
-   "qty" : 1,
-  "new_arrival":true,
-  "original_price":"₹3,13,990",
-  "discount":"8" ,
-  "image":"https://rukminim1.flixcart.com/image/416/416/xif0q/computer/m/h/r/gs66-12ugs-gaming-laptop-msi-original-imaghcps9hxybhzg.jpeg?q=70",
-  "rating":{
-      "rate" : 4,
-      "count":5
-  }},
-{
-  _id: uuid(),
-  "tittle": "MSI",
-  "description": "MSI Creator Z16P Core i7 12th Gen - (32 GB/2 TB SSD/Windows 11 Pro/8 GB Graphics/NVIDIA GeForce RTX 3070Ti/165 Hz) Creator Z16P B12UGST Creator Laptop  (16 inch, Lunar Gray, 2.39 kg)",
-  "price":"₹3,09,890",
-  "category":" Business Laptop",
-  "processor":"Core i7 12th Gen",
-   "qty" : 1,
-  "new_arrival":true,
-  "original_price":"₹3,35,990",
-  "discount":"7" ,
-  "image":"https://rukminim1.flixcart.com/image/416/416/xif0q/computer/c/u/3/creator-z16p-b12ugst-creator-laptop-msi-original-imaghf34smsvgdwj.jpeg?q=70",
-  "rating":{
-      "rate" : 4,
-      "count":5
-  }},
+
 {
   _id: uuid(),
   "tittle": "MSI",
@@ -477,4 +345,133 @@ _id: uuid(),
       "rate" : 4,
       "count":5
   }},
+
+  {
+    _id: uuid(),
+    "tittle": "HP",
+    "description": "HP Envy Core i7 11th Gen - (16 GB/512 GB SSD/Windows 11 Home) 13-bd1003TU Thin and Light Laptop  (13.3 inch, Natural Silver, 1.30 Kg, With MS  ice",
+    "price":"₹1,05,900,",
+    "category":"Business Laptop",
+    "processor":"Core i7 12th Gen",
+     "qty" : 1,
+    "new_arrival":true,
+    "original_price":"₹1,24,533",
+    "discount":"14" ,
+    "image":"https://rukminim1.flixcart.com/image/416/416/l26hdow0/computer/p/6/b/13-bd1003tu-thin-and-light-laptop-hp-original-imagdkzmzxdjuc9h.jpeg?q=70",
+    "rating":{
+        "rate" : 3,
+        "count":5
+    }},
+    
+    {
+     _id: uuid(),
+    "tittle": "HP",
+    "description": "HP Spectre Core i7 12th Gen - (16 GB/1 TB SSD/Windows 11 Home) ef0054TU Notebook  (13.5 inch, Nocturne Blue, 1.34 kg, With MS  ice)",
+    "price":"₹1,49,890,",
+    "category":"Business Laptop",
+    "processor":"Core i7 12th Gen",
+     "qty" : 1,
+    "new_arrival":true,
+    "original_price":"₹1,68,617",
+    "discount":"11" ,
+    "image":"https://rukminim1.flixcart.com/image/416/416/xif0q/computer/h/s/n/spectre-x360-13-notebook-hp-original-imagg4fa4ng9axqx.jpeg?q=70",
+    "rating":{
+        "rate" : 1,
+      "count":5
+    }},
+    
+      
+    {
+      "tittle": "HP",
+      _id: uuid(),
+      "description": "HP Core i7 12th Gen - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 3050 4GB Graphics) 16-B1350TX Gaming Laptop  (16.1 inch, Shadow Black, With MS  ice)",
+      "price":"₹1,21,900,",
+      "category":"Gaming Laptop",
+      "processor":"Core i7 12th Gen",
+       "qty" : 1,
+      "new_arrival":true,
+      "original_price":"₹1,48,990",
+      "discount":"18" ,
+      "image":"https://rukminim1.flixcart.com/image/416/416/xif0q/computer/h/h/m/16-b1350tx-gaming-laptop-hp-original-imagg7hutkwfyrwq.jpeg?q=70",
+      "rating":{
+          "rate" : 2,
+          "count":5
+      }},
+      
+    
+    {
+      _id: uuid(),
+      "tittle": "HP",
+      "description": "HP Victus Ryzen 7 Octa Core 5800H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) 15-fb0052AX Gaming Laptop  (15.6 Inch, Mica Silver, 2.37 Kg, With MS  ice))",
+      "price":"₹84,390",
+      "category":"Gaming Laptop",
+      "processor":"Core i7 12th Gen",
+       "qty" : 1,
+      "new_arrival":true,
+      "original_price":"₹93,197",
+      "discount":"9" ,
+      "image":"https://rukminim1.flixcart.com/image/416/416/l5bd5zk0/computer/l/e/k/15-fb0040ax-gaming-laptop-hp-original-imaggyuezf9qtypd.jpeg?q=70",
+      "rating":{
+          "rate" : 3,
+          "count":5
+      }},
+      
+    {
+      _id: uuid(),
+      "tittle": "HP",
+      "description": "HP HP ZBook Firefly Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home) ZBook Firefly 15U G7 Notebook  (15.6 inch, Black)",
+      "price":"₹99,900",
+      "category":" Business Laptop",
+      "processor":"Core i7 12th Gen",
+       "qty" : 1,
+      "new_arrival":true,
+      "original_price":"₹1,59,251",
+      "discount":"37" ,
+      "image":"https://rukminim1.flixcart.com/image/416/416/l5bd5zk0/computer/l/e/k/15-fb0040ax-gaming-laptop-hp-original-imaggyuezf9qtypd.jpeg?q=70",
+      "rating":{
+          "rate" : 5,
+          "count":5
+      }},
+      
+
+
+      {
+        _id: uuid(),
+        "tittle": "Levono",
+        "description": "Lenovo Legion 7i Core i7 12th Gen - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 2080 Super Max-Q/144 Hz) 15IMHg05 Gaming Laptop  (15.6 inch, Slate Grey, 2.25 kg, With MS Office)",
+        "price":"₹1,99,890",
+        "category":"Gameing Laptop",
+        "processor":"Core i7 12th Gen",
+         "qty" : 1,
+        "new_arrival":true,
+        "original_price":"₹3,49,890",
+        "discount":"42" ,
+        "image":"https://rukminim1.flixcart.com/image/416/416/kk76wsw0/computer/h/j/o/lenovo-original-imafzhsyzryckmew.jpeg?q=70",
+        "rating":{
+            "rate" : 3,
+            "count":5
+      }},
+      
+      
+      
+      
+        {
+        _id: uuid(),
+        "tittle": "Levono",
+        "description": "Lenovo ThinkPad X1 Core i7 12th Gen - (16 GB/512 GB SSD/Windows 10 Home) X1 Carbon 7th Gen 2 in 1 Laptop  (14 inch, Black, 1.21 kg)",
+        "price":"₹2,17,899",
+        "category":"Business Laptop",
+        "processor":"Core i7 12th Gen",
+         "qty" : 1,
+        "new_arrival":true,
+        "original_price":"₹2,29,599",
+        "discount":"5" ,
+        "image":"https://rukminim1.flixcart.com/image/416/416/kdvzwcw0/computer/r/g/6/lenovo-original-imafup3mzc2fu4xk.jpeg?q=70",
+        "rating":{
+            "rate" : 2,
+            "count":5
+      }},
+      
+
+
  ]
