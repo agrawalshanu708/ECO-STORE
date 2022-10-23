@@ -4,13 +4,13 @@ import "./ProductStore.css"
 
 
 const ProductStore = () => {
-  const [users, setUsers] = useState([]);
+  const [products, setProducts] = useState([]);
   useEffect(() => {
 
     
       (async () => {
         const response = await axios.get("/api/products")
-        setUsers(response.data.products)
+        setProducts(response.data.products)
       })()
   },[])
 
@@ -18,18 +18,18 @@ const ProductStore = () => {
 
   return (
     <div className="main-divs">
-    <div className='s'> {users.map((user) => 
-      <div className='r'><div> <img className='img' src={user.image}/></div>
-    <div className='list'>  <li> {user.tittle} </li>
+    <div className='product-line'> {products.map((product) => 
+      <div className='div-img'><div> <img className='img' src={product.image}/></div>
+    <div className='list'>  <li> {product.tittle} </li>
             {/* <li className='dis'> {user.description} </li>  */}
-            <li> {user.processor }</li>
-            <li> {user.category}</li>
-            <li> {user.price}</li>
-            <li> {user.qty}</li>
-            <li>{user.original_price}</li>
-            <li>{user.discount}</li> 
-            <li>{user.rating.rate}</li>
-            <li>{user.rating.count}</li>
+            <li> {product.processor }</li>
+            <li> {product.category}</li>
+            <li> {product.price}</li>
+            <li> {product.qty}</li>
+            <li>{product.original_price}</li>
+            <li>{product.discount}</li> 
+            <li>{product.rating.rate}</li>
+            <li>{product.rating.count}</li>
             </div>
       </div>
       )

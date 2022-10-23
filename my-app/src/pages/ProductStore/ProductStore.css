@@ -10,7 +10,7 @@
     
  
 }
-.s{
+.product-line{
     display: grid;
     grid-template-columns: auto auto auto;
 }
@@ -29,7 +29,7 @@
     margin-bottom: 8px;
  
 }
-.r{
+.div-img{
     flex-direction: row;
     justify-content:center;
     /* align-items: flex-start; */
