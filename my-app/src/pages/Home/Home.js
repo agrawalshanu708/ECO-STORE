@@ -1,4 +1,4 @@
-import Banner1 from "../../Assets/images/Banner1.png"
+import MainBanner1 from "../../Assets/images/MainBanner1.png"
 import Banner2 from "../../Assets/images/Banner2.png"
 import Banner3 from "../../Assets/images/Banner3.png"
 import Banner4 from "../../Assets/images/Banner4.png"
@@ -18,13 +18,12 @@ import logo2 from "../../Assets/images/logo2.png"
 import logo3 from "../../Assets/images/logo3.png"
 import logo5 from "../../Assets/images/logo5.png"
 import logo7 from "../../Assets/images/logo7.png"
-
-
-
 import "./Home.css"
-
 import React from 'react'
 import { Link } from "react-router-dom"
+
+
+
 
 export const Home = () => {
   return (
@@ -40,9 +39,9 @@ export const Home = () => {
     
     
      
-    <Link className="Link" to="/ProductStore"><span className="store1">St</span><span className="store">ore</span></Link>
+<Link className="Link" to="/ProductStore"><span className="store1">St</span><span className="store">ore</span></Link>
 
-<div><img className="Banner1" src={Banner1} alt=""/></div>
+<div><img className="Banner1" src={MainBanner1} alt=""/></div>
 
 <marquee className="marquee" width="100%" direction="left" height="15px"  >
 India's Largest Laptop Store 🚀 Friday Sale is on!!! You can easily buy laptops online, with the convenience of sitting at your home. Various brands like Dell, Lenovo, Asus, HP, and Acer offer various models with varied features.
