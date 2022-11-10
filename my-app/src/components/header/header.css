@@ -4,12 +4,13 @@
     position: fixed;
     top: 0%;
     padding-left: 1rem;
-    font-size:xx-small;
+    padding-bottom: 1rem;
+    font-size: 2rem;
     color: var(--secondary-color);
     display: flex;
     background-color: var(--primary-color);
     font-family:'Times New Roman', Times, serif;
-    height: 6.6vh; 
+    height: 10vh; 
     width: 100%;
        
 }
